@@ -1,18 +1,64 @@
-# 💫 About Me:
-🔭I’m currently working at Kira Intrilogy , focusing on ERP and CRM solutions.<br><br>🌱 I’m currently enhancing my expertise in React.js, Node.js, and MongoDB.<br><br>👯 I’m open to collaborating on open-source projects and innovative web applications.<br><br>🤔 I’m looking for help with performance optimization in large-scale applications.<br><br>💬 Ask me about JavaScript, React, Node.js, MongoDB, and web development.<br><br>📫 Reach me at: patelayush040702002@gmail.com<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I enjoy playing chess and solving complex puzzles.<br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ayush0407) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-patel-691270187/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelayush4702@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ayush2014Kira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ayush2014Kira&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2014Kira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👋 Hi, I'm Ayush Patel  
+### **MERN Stack Developer | React.js | Node.js | Open-Source Enthusiast**  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patelayush4702@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9898996496)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayush2014Kira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 **About Me**  
+Passionate **MERN Stack Developer** with **2+ years** of experience building scalable web applications. I thrive on solving complex problems with clean, efficient code and love collaborating with teams to deliver impactful solutions.  
+
+🔹 **Expertise**: React.js, Node.js, MongoDB, Next.js, Redux, Socket.io  
+🔹 **Currently Learning**: Advanced Backend Architectures | Microservices  
+🔹 **Fun Fact**: I automate mundane tasks just for fun!  
+
+---
+
+## 💼 **Professional Experience**  
+### **MERN Stack Developer** @ [Kira Intrilogy](https://github.com/Ayush2014Kira)  
+- Built dynamic web apps with **React.js**, improving user engagement by **30%**.  
+- Optimized app performance by resolving bottlenecks, reducing load times by **40%**.  
+- Collaborated with designers to convert mockups into functional features using **MERN stack**.  
+
+### **React.js Intern** @ [InfoLabz](https://github.com/Ayush2014Kira)  
+- Learned core React concepts (components, state, props) and API integration.  
+
+---
+
+## 🛠 **Skills**  
+![MERN Stack](https://img.shields.io/badge/MERN-00f?style=flat&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Frontend**: HTML | CSS | SCSS | Ant Design | Redux  
+**Backend**: Express.js | MongoDB | Socket.io  
+**Tools**: GitHub | Figma | Postman  
+
+---
+
+## 🏆 **Projects**  
+| Project | Description | Tech Stack |  
+|---------|-------------|------------|  
+| **[OEMUP](link)** | ERP/CRM system with modules for procurement, stock management, and PDF/Excel exports. | React, Node.js, MongoDB |  
+| **[Starkidz](link)** | School management platform with contest/event creation and admin panels. | Next.js, Redux |  
+| **[Chat-App](link)** | Real-time chat app with Socket.io and Redux for state management. | React, Socket.io, Node.js |  
+
+---
+
+## 📈 **GitHub Stats**  
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush2014Kira&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2014Kira&layout=compact&theme=dark)  
+
+---
+
+## 📫 **Let's Connect!**  
+I’m open to collaborations and freelance opportunities. Reach out:  
+- 📧 **Email**: patelayush4702@gmail.com  
+- 📞 **Phone**: +91 9898996496  
+- 🌐 **Portfolio**: [Coming Soon!]  
+
+⭐ **Fun Challenge**: Try finding the hidden `console.log("Hello World!")` in my repos!  
